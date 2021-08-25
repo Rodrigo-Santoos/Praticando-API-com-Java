@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Area de Trabalhos\Documents\Projetos em Java\Projeto com API\apirest1.0"/>
+			<item value="C:\Users\Area de Trabalhos\Documents\Projetos em Java\Projeto com API\Apirest"/>
 			<item value="C:\Users\Area de Trabalhos\Documents\Projetos em Java\Projeto com API\apirest"/>
 		</list>
 		<list key="projectNameTemplate">
